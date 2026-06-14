@@ -55,18 +55,6 @@ The solver requires:
   * air density
   * TSR range
 
-## Running the Solver
-
-1. Place airfoil polar files inside the Polar dataset folder.
-2. Verify the folder path in the source code if necessary.
-3. Run:
-
-```python
-python steady_state_bem_solver.py
-```
-
-4. Enter the required turbine geometry and operating conditions.
-
 ## Results
 
 The solver generates:
@@ -80,13 +68,14 @@ The solver generates:
 
 ## Limitations
 
-* Steady-state formulation only
-* limited to one airfoil rotor models
-* No yawed-flow modeling
-* No aeroelastic coupling
+* Steady-state BEM formulation (no unsteady aerodynamic effects)
+* Limited to rotors with single-airfoil type
+* Single operating wind speed per simulation run
 
 ## Author
 
 R.Karthick Raja Rajavel
-
-Master's Student – Renewable Energy Systems
+Scientific Assistant    
+Institut für Regenerative Energietechnik (in.RET)
+MEng Student – Renewable Energy Engineering
+Hochschule Nordhausen
