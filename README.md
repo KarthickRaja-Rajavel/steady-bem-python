@@ -8,6 +8,7 @@ The solver computes aerodynamic performance and blade-element loading using Reyn
 * Steady-state Blade Element Momentum (BEM) formulation
 * Reynolds-number-dependent polar interpolation
 * Prandtl tip-loss correction
+* Glauert high-loading correction
 * Iterative solution of induction factors
 * Power coefficient (Cp) prediction
 * Thrust coefficient (Ct) prediction
