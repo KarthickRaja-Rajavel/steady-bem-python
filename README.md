@@ -27,7 +27,7 @@ figures/
 
 ## Validation
 
-The solver was validated against a simple test turbine model developed in QBlade.
+The solver was validated against a simple test turbine model developed in QBlade. Power coefficient (Cp) and thrust coefficient (Ct) predictions from the Python BEM solver were compared against QBlade results over a TSR range of 1–12.
 
 ### Power Coefficient Comparison
 
