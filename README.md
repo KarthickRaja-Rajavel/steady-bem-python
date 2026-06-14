@@ -34,7 +34,7 @@ The solver was validated against a simple test turbine model developed in QBlade
 
 ### Thrust Coefficient Comparison
 
-[Insert Ct figure here]
+![image alt]()
 
 The results demonstrate good agreement with QBlade over the investigated TSR range. Differences are attributed to modeling assumptions and implementation details associated with the steady-state BEM formulation.
 
