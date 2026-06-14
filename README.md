@@ -37,7 +37,7 @@ The solver was validated against a simple test turbine model developed in QBlade
 
 ![image alt](https://github.com/KarthickRaja-Rajavel/steady-bem-python/blob/main/figures/Thrust%20coefficient%20(Qblade%20vs%20Python).png?raw=true)
 
-The results demonstrate good agreement with QBlade over the investigated TSR range. Differences are attributed to modeling assumptions and implementation details associated with the steady-state BEM formulation.
+Good agreement with QBlade is observed for TSR ≤ 5. At higher TSR, the Python BEM solver shows noticeable overprediction of Cp and Ct, probably due to simplifications in the steady-state BEM formulation and differences in induction and high-loading (Glauert) corrections compared to QBlade, and the absence of hub loss factor.
 
 ## Input Data
 
@@ -81,12 +81,12 @@ The solver generates:
 ## Limitations
 
 * Steady-state formulation only
-* No dynamic stall model
+* limited to one airfoil rotor models
 * No yawed-flow modeling
 * No aeroelastic coupling
 
 ## Author
 
-Karthick [Surname]
+R.Karthick Raja Rajavel
 
-Master's Student – Renewable Energy Engineering
+Master's Student – Renewable Energy Systems
