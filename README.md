@@ -75,7 +75,6 @@ The solver generates:
 ## Author
 
 R.Karthick Raja Rajavel
-Scientific Assistant    
-Institut für Regenerative Energietechnik (in.RET)
-MEng Student – Renewable Energy Engineering
+MEng Student – Renewable Energy Engineering  
+Scientific Assistant, in.RET  
 Hochschule Nordhausen
