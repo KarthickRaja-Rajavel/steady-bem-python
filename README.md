@@ -30,7 +30,7 @@ The solver was validated against a simple test turbine model developed in QBlade
 
 ### Power Coefficient Comparison
 
-![image alt]([figures/Power coefficient (Qblade vs Python).png](https://github.com/KarthickRaja-Rajavel/steady-bem-python/blob/main/figures/Power%20coefficient%20(Qblade%20vs%20Python).png?raw=true))
+![image alt](https://github.com/KarthickRaja-Rajavel/steady-bem-python/blob/main/figures/Power%20coefficient%20(Qblade%20vs%20Python).png?raw=true)
 
 ### Thrust Coefficient Comparison
 
