@@ -34,7 +34,7 @@ The solver was validated against a simple test turbine model developed in QBlade
 
 ### Thrust Coefficient Comparison
 
-![image alt]()
+![image alt](https://github.com/KarthickRaja-Rajavel/steady-bem-python/blob/main/figures/Thrust%20coefficient%20(Qblade%20vs%20Python).png?raw=true)
 
 The results demonstrate good agreement with QBlade over the investigated TSR range. Differences are attributed to modeling assumptions and implementation details associated with the steady-state BEM formulation.
 
