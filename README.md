@@ -74,7 +74,7 @@ The solver generates:
 
 ## Author
 
-R.Karthick Raja Rajavel 
-Scientific Assistant, in.RET 
-MEng Student – Renewable Energy Systems   
+R.Karthick Raja Rajavel    
+Scientific Assistant, in.RET    
+MEng Student – Renewable Energy Systems     
 Hochschule Nordhausen
