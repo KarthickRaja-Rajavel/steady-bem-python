@@ -1,7 +1,7 @@
 # steady-bem-python
 Python implementation of a steady Blade Element Momentum (BEM) solver for wind turbine performance prediction.
 
-The solver computes aerodynamic performance and blade-element loading using Reynolds-dependent airfoil polars, Prandtl tip-loss corrections, and iterative solution of axial and tangential induction factors.
+The solver computes aerodynamic performance and blade-element loading using Reynolds-dependent airfoil polars, Prandtl tip-loss corrections, and iterative solution of axial and tangential induction factors. For additional information, please refer to the validation report provided in the validation folder.
 
 ## Features
 
